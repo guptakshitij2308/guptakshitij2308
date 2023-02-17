@@ -1,9 +1,12 @@
-https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif.
+)]
 <h1 align="center">Hey there 👋, I'm Kshitij</h1>
 <h3 align="center">A Full-Stack Web Developer and Blockchain Enthusiast from India</h3>
-< img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47wdbuboz8clmh3uuwj22kkwy9jxqu23c58503hzl1&rid=giphy.gif&ct=g" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptakshitij2308" alt="guptakshitij2308" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47wdbuboz8clmh3uuwj22kkwy9jxqu23c58503hzl1&rid=giphy.gif&ct=g" />
+
+
+
 
 - 🔭 I’m currently working on **Beautello**
 

@@ -1,5 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif.
-)]
+
 <h1 align="center">Hey there 👋, I'm Kshitij</h1>
 <h3 align="center">A Full-Stack Web Developer and Blockchain Enthusiast from India</h3>
 

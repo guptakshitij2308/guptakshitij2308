@@ -20,10 +20,6 @@
 - 📫 How to reach me **guptakshitij2308@gmail.com**
 
 
-
-### Vibing to
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/ak6rgwer8utlykvcgi7gc73mq)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/guptakshitij_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guptakshitij_" height="30" width="40" /></a>
